@@ -1,0 +1,2 @@
+# mlops
+Azure Deployment 
